@@ -19,7 +19,7 @@ s.source       = { :git => "https://github.com/TracyChouYY/ProText.git", :tag =>
 
 
 
-s.source_files  = "Text/Text/*.{swift}"
+s.source_files  = "Text/*.{swift}"
 
 s.platform     = :ios, '8.0'
 s.requires_arc = true
